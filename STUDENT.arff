@@ -1,0 +1,15 @@
+% my data
+@relation student
+@attribute rno string
+@attribute name string
+@attribute sec  {A}
+@attribute dept {CSE}
+@attribute class {PASS,FAIL}
+@attribute age string
+
+@data
+17wh1a0509,Chaitra,A,CSE,PASS,21
+17wh1a0515,Chandana,A,CSE,FAIL,20
+17wh1a0536,Turiya,A,CSE,PASS,21
+17wh1a0539,Sahithi,A,CSE,PASS,21
+17wh1a0544,Satya,A,CSE,PASS,21
